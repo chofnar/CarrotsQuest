@@ -1,0 +1,1171 @@
+fileFormatVersion: 2
+guid: 4ccbff1c9dcac4d4db48337ff68cc899
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: wing1
+  - first:
+      213: 21300002
+    second: spritesheet_jumper_1
+  - first:
+      213: 21300004
+    second: aOinkBunny1
+  - first:
+      213: 21300006
+    second: spritesheet_jumper_3
+  - first:
+      213: 21300008
+    second: coin3
+  - first:
+      213: 21300010
+    second: spritesheet_jumper_5
+  - first:
+      213: 21300012
+    second: spritesheet_jumper_6
+  - first:
+      213: 21300014
+    second: spritesheet_jumper_7
+  - first:
+      213: 21300016
+    second: spritesheet_jumper_8
+  - first:
+      213: 21300018
+    second: spritesheet_jumper_9
+  - first:
+      213: 21300020
+    second: spritesheet_jumper_10
+  - first:
+      213: 21300022
+    second: aPinkBunny2
+  - first:
+      213: 21300024
+    second: spritesheet_jumper_12
+  - first:
+      213: 21300026
+    second: spritesheet_jumper_13
+  - first:
+      213: 21300028
+    second: dirt1
+  - first:
+      213: 21300030
+    second: dirt4
+  - first:
+      213: 21300032
+    second: spritesheet_jumper_16
+  - first:
+      213: 21300034
+    second: spritesheet_jumper_17
+  - first:
+      213: 21300036
+    second: spritesheet_jumper_18
+  - first:
+      213: 21300038
+    second: spritesheet_jumper_19
+  - first:
+      213: 21300040
+    second: spritesheet_jumper_20
+  - first:
+      213: 21300042
+    second: dirt3
+  - first:
+      213: 21300044
+    second: spritesheet_jumper_22
+  - first:
+      213: 21300046
+    second: spritesheet_jumper_23
+  - first:
+      213: 21300048
+    second: spritesheet_jumper_24
+  - first:
+      213: 21300050
+    second: aRedBunny6
+  - first:
+      213: 21300052
+    second: spritesheet_jumper_26
+  - first:
+      213: 21300054
+    second: spritesheet_jumper_27
+  - first:
+      213: 21300056
+    second: spritesheet_jumper_28
+  - first:
+      213: 21300058
+    second: spritesheet_jumper_29
+  - first:
+      213: 21300060
+    second: spritesheet_jumper_30
+  - first:
+      213: 21300062
+    second: carrotUI
+  - first:
+      213: 21300064
+    second: spritesheet_jumper_32
+  - first:
+      213: 21300066
+    second: spritesheet_jumper_33
+  - first:
+      213: 21300068
+    second: coin4
+  - first:
+      213: 21300070
+    second: spritesheet_jumper_35
+  - first:
+      213: 21300072
+    second: spritesheet_jumper_36
+  - first:
+      213: 21300074
+    second: spritesheet_jumper_37
+  - first:
+      213: 21300076
+    second: spritesheet_jumper_38
+  - first:
+      213: 21300078
+    second: aRedBunny1
+  - first:
+      213: 21300080
+    second: spritesheet_jumper_40
+  - first:
+      213: 21300082
+    second: spritesheet_jumper_41
+  - first:
+      213: 21300084
+    second: spritesheet_jumper_42
+  - first:
+      213: 21300086
+    second: spritesheet_jumper_43
+  - first:
+      213: 21300088
+    second: aRedBunny3
+  - first:
+      213: 21300090
+    second: spritesheet_jumper_45
+  - first:
+      213: 21300092
+    second: spritesheet_jumper_46
+  - first:
+      213: 21300094
+    second: aRedBunny2
+  - first:
+      213: 21300096
+    second: spritesheet_jumper_48
+  - first:
+      213: 21300098
+    second: spritesheet_jumper_49
+  - first:
+      213: 21300100
+    second: spritesheet_jumper_50
+  - first:
+      213: 21300102
+    second: spritesheet_jumper_51
+  - first:
+      213: 21300104
+    second: spritesheet_jumper_52
+  - first:
+      213: 21300106
+    second: spritesheet_jumper_53
+  - first:
+      213: 21300108
+    second: aRedBunny4
+  - first:
+      213: 21300110
+    second: spritesheet_jumper_55
+  - first:
+      213: 21300112
+    second: spritesheet_jumper_56
+  - first:
+      213: 21300114
+    second: spritesheet_jumper_57
+  - first:
+      213: 21300116
+    second: spritesheet_jumper_58
+  - first:
+      213: 21300118
+    second: spritesheet_jumper_59
+  - first:
+      213: 21300120
+    second: spritesheet_jumper_60
+  - first:
+      213: 21300122
+    second: spritesheet_jumper_61
+  - first:
+      213: 21300124
+    second: spritesheet_jumper_62
+  - first:
+      213: 21300126
+    second: spritesheet_jumper_63
+  - first:
+      213: 21300128
+    second: aPinkBunny4
+  - first:
+      213: 21300130
+    second: spritesheet_jumper_65
+  - first:
+      213: 21300132
+    second: spritesheet_jumper_66
+  - first:
+      213: 21300134
+    second: spritesheet_jumper_67
+  - first:
+      213: 21300136
+    second: spritesheet_jumper_68
+  - first:
+      213: 21300138
+    second: spritesheet_jumper_69
+  - first:
+      213: 21300140
+    second: spritesheet_jumper_70
+  - first:
+      213: 21300142
+    second: spritesheet_jumper_71
+  - first:
+      213: 21300144
+    second: spritesheet_jumper_72
+  - first:
+      213: 21300146
+    second: spritesheet_jumper_73
+  - first:
+      213: 21300148
+    second: spritesheet_jumper_74
+  - first:
+      213: 21300150
+    second: spritesheet_jumper_75
+  - first:
+      213: 21300152
+    second: spritesheet_jumper_76
+  - first:
+      213: 21300154
+    second: spritesheet_jumper_77
+  - first:
+      213: 21300156
+    second: spritesheet_jumper_78
+  - first:
+      213: 21300158
+    second: wing2
+  - first:
+      213: 21300160
+    second: aRedBunny5
+  - first:
+      213: 21300162
+    second: spritesheet_jumper_81
+  - first:
+      213: 21300164
+    second: spritesheet_jumper_82
+  - first:
+      213: 21300166
+    second: spritesheet_jumper_83
+  - first:
+      213: 21300168
+    second: spritesheet_jumper_84
+  - first:
+      213: 21300170
+    second: spritesheet_jumper_85
+  - first:
+      213: 21300172
+    second: coin2
+  - first:
+      213: 21300174
+    second: spritesheet_jumper_87
+  - first:
+      213: 21300176
+    second: dirt2
+  - first:
+      213: 21300178
+    second: aPinkBunny6
+  - first:
+      213: 21300180
+    second: spritesheet_jumper_90
+  - first:
+      213: 21300182
+    second: spritesheet_jumper_91
+  - first:
+      213: 21300184
+    second: spritesheet_jumper_92
+  - first:
+      213: 21300186
+    second: spritesheet_jumper_93
+  - first:
+      213: 21300188
+    second: spritesheet_jumper_94
+  - first:
+      213: 21300190
+    second: spritesheet_jumper_95
+  - first:
+      213: 21300192
+    second: spritesheet_jumper_96
+  - first:
+      213: 21300194
+    second: spritesheet_jumper_97
+  - first:
+      213: 21300196
+    second: aPinkBunny7
+  - first:
+      213: 21300198
+    second: spritesheet_jumper_99
+  - first:
+      213: 21300200
+    second: spritesheet_jumper_100
+  - first:
+      213: 21300202
+    second: spritesheet_jumper_101
+  - first:
+      213: 21300204
+    second: spritesheet_jumper_102
+  - first:
+      213: 21300206
+    second: spritesheet_jumper_103
+  - first:
+      213: 21300208
+    second: spritesheet_jumper_104
+  - first:
+      213: 21300210
+    second: spritesheet_jumper_105
+  - first:
+      213: 21300212
+    second: spritesheet_jumper_106
+  - first:
+      213: 21300214
+    second: abUICoin1
+  - first:
+      213: 21300216
+    second: spritesheet_jumper_108
+  - first:
+      213: 21300218
+    second: coin1
+  - first:
+      213: 21300220
+    second: spritesheet_jumper_110
+  - first:
+      213: 21300222
+    second: spritesheet_jumper_111
+  - first:
+      213: 21300224
+    second: spritesheet_jumper_112
+  - first:
+      213: 21300226
+    second: spritesheet_jumper_113
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aOinkBunny1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1847
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1916
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aPinkBunny2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1644
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1570
+        width: 380
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aRedBunny6
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1441
+        width: 120
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_26
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1496
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrotUI
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1445
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_36
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1190
+        width: 121
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aRedBunny1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1104
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_41
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1226
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aRedBunny3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 987
+        width: 120
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aRedBunny2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 928
+        width: 150
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_50
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 999
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 928
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aRedBunny4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 794
+        width: 120
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_60
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 831
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aPinkBunny4
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 592
+        width: 121
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_75
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 641
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_76
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 636
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 516
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aRedBunny5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 383
+        width: 120
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_85
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 389
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 286
+        width: 201
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aPinkBunny6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 207
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_92
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 317
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_96
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 245
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aPinkBunny7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 7
+        width: 150
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_103
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 123
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_104
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 114
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_110
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 47
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_112
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_jumper_113
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wing1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1323
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
